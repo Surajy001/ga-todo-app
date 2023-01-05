@@ -19,6 +19,16 @@
       "value": "D",
       "isCompleted": false,
       "id": 4
+    },
+    {
+      "value": "S",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "U",
+      "isCompleted": false,
+      "id": 6
     }
   ]
 }
